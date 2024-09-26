@@ -1,5 +1,6 @@
 <#
   Example usage of the single file cosmos powershell funcations
+  Replace $PSScriptRoot with relative path if running from an IDE
 #>
 
 . "$PSScriptRoot\query-cosmos.ps1"
