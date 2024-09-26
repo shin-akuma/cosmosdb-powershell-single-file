@@ -1,3 +1,7 @@
+<#
+  Example usage of the single file cosmos powershell funcations
+#>
+
 . "$PSScriptRoot\query-cosmos.ps1"
 
 $CosmosDBEndPoint = "https://xxxx.documents.azure.com:443/"
